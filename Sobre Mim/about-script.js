@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function () {
   overlay.setAttribute('aria-hidden', 'true');
   body.appendChild(overlay);
 
-  const main = document.getElementById('main-content'); // conteúdo que será desfocado
+  const main = document.getElementById('main-content');
 
   function closeMenu() {
     nav.setAttribute('data-visible', 'false');
