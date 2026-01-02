@@ -1485,7 +1485,7 @@ select option {
 
 .btn-cta {
     display: flex;
-    min-width: 200px;
+    min-width: 300px;
     cursor: pointer;
     align-items: center;
     justify-content: center;
@@ -1765,11 +1765,6 @@ footer {
 }
 
 @media (max-width: 768px) {
-    .btn-cta {
-        font-size: 0.875rem;
-        padding: 0 1rem;
-    }
-
     .step-item-wrapper {
         flex-direction: column;
         gap: 2rem;
