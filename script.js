@@ -908,6 +908,13 @@ revelar.reveal('.hidden-faq-item3',
     delay: 350
   })
 
+revelar.reveal('.hidden-faq-item4',
+  {
+    duration: 1000,
+    distance: '50px',
+    delay: 450
+  })
+
 // CTA
 
 revelar.reveal('.hidden-cta-title',
