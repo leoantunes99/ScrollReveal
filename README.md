@@ -84,14 +84,17 @@ ou utilize uma extensão como Live Server no VS Code.
 
 <div align="center"> 
   <h3>🖥️ Desktop</h3> 
-  <img src="assets/desktop.png"/>
+  <img src="https://github.com/leoantunes99/renan-personal/blob/master/assets/desktop1.png?raw=true"/>
+  <br>
+  <br>
+  <img src="https://github.com/leoantunes99/renan-personal/blob/master/assets/desktop2.png?raw=true"/>
 </div>
 
 <br/>
 
 <div align="center">
   <h3>📱 Mobile</h3>
-  <img src="assets/mobile.png"/>
+  <img src="https://github.com/leoantunes99/renan-personal/blob/master/assets/mobile1.png?raw=true"/>
 </div>
 
 ---
